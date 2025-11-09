@@ -1,0 +1,44 @@
+{
+  "World News": [
+    {
+      "name": "NY Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "name": "CNN",
+      "url": "http://rss.cnn.com/rss/edition.rss"
+    },
+    {
+      "name": "Yahoo News",
+      "url": "https://news.yahoo.com/rss/mostviewed"
+    },
+    {
+      "name": "WSJ",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    }
+  ],
+  "Financial News": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    },
+    {
+      "name": "WSJ",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
+    }
+  ],
+  "Technology News": [
+    {
+      "name": "Slashdot",
+      "url": "https://rss.slashdot.org/Slashdot/slashdot"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    }
+  ]
+}
