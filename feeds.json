@@ -9,10 +9,6 @@
       "url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "name": "CNN",
-      "url": "http://rss.cnn.com/rss/edition.rss"
-    },
-    {
       "name": "Yahoo News",
       "url": "https://news.yahoo.com/rss/mostviewed"
     },
