@@ -93,14 +93,6 @@
     {
       "name": "Slashdot",
       "url": "https://rss.slashdot.org/Slashdot/slashdot"
-    },
-    {
-      "name": "Stack Overflow Blog",
-      "url": "https://stackoverflow.blog/feed/"
-    },
-    {
-      "name": "Swift.org",
-      "url": "https://www.swift.org/atom.xml"
     }
   ],
   "Software Development": [
@@ -115,6 +107,18 @@
     {
       "name": "Engineering – Stack Overflow Blog",
       "url": "https://stackoverflow.blog/engineering/feed/"
+    },
+    {
+      "name": "News - Apple Developer",
+      "url": "https://developer.apple.com/news/rss/news.rss"
+    },
+    {
+      "name": "Stack Overflow Blog",
+      "url": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "name": "Swift.org",
+      "url": "https://www.swift.org/atom.xml"
     }
   ],
   "Technology": [
