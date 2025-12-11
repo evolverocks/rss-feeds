@@ -1,20 +1,8 @@
 {
-  "World News": [
+  "AI": [
     {
-      "name": "NY Times",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    },
-    {
-      "name": "BBC",
-      "url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "name": "Yahoo News",
-      "url": "https://news.yahoo.com/rss/mostviewed"
-    },
-    {
-      "name": "WSJ",
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+      "name": "Wired AI",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss"
     }
   ],
   "Financial News": [
@@ -23,18 +11,174 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
     },
     {
-      "name": "WSJ",
+      "name": "Market Watch",
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+    },
+    {
+      "name": "Seeking alpha",
+      "url": "https://seekingalpha.com/market_currents.xml"
+    },
+    {
+      "name": "Wired Business Latest",
+      "url": "https://www.wired.com/feed/category/business/latest/rss"
+    },
+    {
+      "name": "WSJ finance",
       "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
     }
   ],
-  "Technology News": [
+  "Germany News": [
+    {
+      "name": "Zeit",
+      "url": "http://newsfeed.zeit.de/index"
+    }
+  ],
+  "Hong Kong News": [
+    {
+      "name": "香港政府新聞網 - 新聞速遞香港政府新聞網 - 新聞速遞",
+      "url": "https://www.news.gov.hk/tc/common/html/ticker.rss.xml"
+    },
+    {
+      "name": "香港新聞RSS - 香港經濟日報 hket.com香港新聞RSS - 香港經濟日報 hket.com",
+      "url": "https://www.hket.com/rss/hongkong"
+    },
+    {
+      "name": "國際新聞RSS - 香港經濟日報 hket.com國際新聞RSS - 香港經濟日報 hket.com",
+      "url": "https://www.hket.com/rss/world"
+    },
+    {
+      "name": "港聞新聞 - Yahoo 新聞港聞新聞 - Yahoo 新聞",
+      "url": "http://hk.news.yahoo.com/rss/hong-kong"
+    },
+    {
+      "name": "rthk.hk -即時新聞: 國際rthk.hk - 即時新聞: 國際",
+      "url": "https://rthk.hk/rthk/news/rss/c_expressnews_cinternational.xml"
+    }
+  ],
+  "Science": [
+    {
+      "name": "Nasa breaking news",
+      "url": "https://www.nasa.gov/news-release/feed/"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "name": "New Scientist",
+      "url": "https://www.newscientist.com/feed/home/"
+    },
+    {
+      "name": "Science",
+      "url": "https://www.science.org/rss/news_current.xml"
+    }
+  ],
+  "Software": [
+    {
+      "name": "Android News",
+      "url": "https://blog.google/products/android/rss"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "name": "Hugging Face - Blog",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "LWN.net",
+      "url": "https://lwn.net/headlines/rss"
+    },
     {
       "name": "Slashdot",
       "url": "https://rss.slashdot.org/Slashdot/slashdot"
     },
     {
-      "name": "Hacker News",
-      "url": "https://news.ycombinator.com/rss"
+      "name": "Stack Overflow Blog",
+      "url": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "name": "Swift.org",
+      "url": "https://www.swift.org/atom.xml"
+    }
+  ],
+  "Software Development": [
+    {
+      "name": "Android Developers Blog",
+      "url": "https://android-developers.googleblog.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "name": "Docker",
+      "url": "https://www.docker.com/blog/rss"
+    },
+    {
+      "name": "Engineering – Stack Overflow Blog",
+      "url": "https://stackoverflow.blog/engineering/feed/"
+    }
+  ],
+  "Technology": [
+    {
+      "name": "Apple Newsroom",
+      "url": "https://www.apple.com/hk/newsroom/rss-feed.rss"
+    },
+    {
+      "name": "Ars Technica - All contentArs Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Wired top stories",
+      "url": "https://www.wired.com/feed/rss"
+    }
+  ],
+  "United Kingdom News": [
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/international/rss"
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/rss.xml"
+    }
+  ],
+  "United States News": [
+    {
+      "name": "Washington Post",
+      "url": "https://feeds.washingtonpost.com/rss/world"
+    }
+  ],
+  "World News": [
+    {
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "name": "NY Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/"
+    },
+    {
+      "name": "WSJ world news",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    },
+    {
+      "name": "Yahoo News",
+      "url": "https://news.yahoo.com/rss/mostviewed"
     }
   ]
 }
