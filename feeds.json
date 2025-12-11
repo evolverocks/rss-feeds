@@ -169,10 +169,6 @@
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     },
     {
-      "name": "The Gradient",
-      "url": "https://thegradient.pub/rss/"
-    },
-    {
       "name": "WSJ world news",
       "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
     },
