@@ -1,6 +1,22 @@
 {
   "AI": [
     {
+      "name": "Google research",
+      "url": "https://research.google/blog/rss/"
+    },
+    {
+      "name": "MachineLearningMastery.com",
+      "url": "https://machinelearningmastery.com/feed/"
+    },
+    {
+      "name": "Reddit Artificial Intelligence",
+      "url": "https://www.reddit.com/r/ArtificialInteligence.rss"
+    },
+    {
+      "name": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/atom/everything"
+    },
+    {
       "name": "Wired AI",
       "url": "https://www.wired.com/feed/tag/ai/latest/rss"
     }
@@ -87,8 +103,16 @@
       "url": "https://huggingface.co/blog/feed.xml"
     },
     {
+      "name": "It's FOSS",
+      "url": "https://itsfoss.com/rss/"
+    },
+    {
       "name": "LWN.net",
       "url": "https://lwn.net/headlines/rss"
+    },
+    {
+      "name": "Reddit Software",
+      "url": "https://www.reddit.com/r/software.rss"
     },
     {
       "name": "Slashdot",
@@ -131,8 +155,16 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index"
     },
     {
+      "name": "CNET",
+      "url": "https://www.cnet.com/rss/news/"
+    },
+    {
       "name": "Engadget",
       "url": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "name": "Jeff Geerling",
+      "url": "https://www.jeffgeerling.com/blog.xml"
     },
     {
       "name": "TechCrunch",
