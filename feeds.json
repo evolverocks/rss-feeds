@@ -21,6 +21,16 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss"
     }
   ],
+  "Canada News": [
+    {
+      "name": "Cbc",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories"
+    },
+    {
+      "name": "Global News",
+      "url": "https://globalnews.ca/feed/"
+    }
+  ],
   "Financial News": [
     {
       "name": "CNBC",
@@ -29,6 +39,10 @@
     {
       "name": "Market Watch",
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+    },
+    {
+      "name": "Nasdaq Rss",
+      "url": "https://www.nasdaq.com/feed/nasdaq-original/rss.xml"
     },
     {
       "name": "Seeking alpha",
@@ -111,6 +125,10 @@
       "url": "https://lwn.net/headlines/rss"
     },
     {
+      "name": "Reddit Apps",
+      "url": "https://www.reddit.com/r/apps.rss"
+    },
+    {
       "name": "Reddit Software",
       "url": "https://www.reddit.com/r/software.rss"
     },
@@ -191,6 +209,10 @@
   ],
   "United States News": [
     {
+      "name": "NY Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
       "name": "Washington Post",
       "url": "https://feeds.washingtonpost.com/rss/world"
     }
@@ -199,10 +221,6 @@
     {
       "name": "BBC",
       "url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "name": "NY Times",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     },
     {
       "name": "WSJ world news",
