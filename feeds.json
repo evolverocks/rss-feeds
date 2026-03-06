@@ -13,6 +13,10 @@
       "url": "https://www.reddit.com/r/ArtificialInteligence.rss"
     },
     {
+      "name": "Sam Altman blog",
+      "url": "http://blog.samaltman.com/posts.atom"
+    },
+    {
       "name": "Simon Willison's Weblog",
       "url": "https://simonwillison.net/atom/everything"
     },
@@ -121,6 +125,10 @@
       "url": "https://blog.google/products/android/rss"
     },
     {
+      "name": "Dropbox Tech",
+      "url": "https://dropbox.tech/feed"
+    },
+    {
       "name": "Hacker News",
       "url": "https://news.ycombinator.com/rss"
     },
@@ -167,8 +175,16 @@
       "url": "https://developer.apple.com/news/rss/news.rss"
     },
     {
+      "name": "Spotify Engineering",
+      "url": "https://engineering.atspotify.com/feed/"
+    },
+    {
       "name": "Stack Overflow Blog",
       "url": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "name": "Stripe blog",
+      "url": "https://stripe.com/blog/feed.rss"
     },
     {
       "name": "Swift.org",
