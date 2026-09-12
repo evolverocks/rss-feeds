@@ -9,10 +9,6 @@
       "url": "https://machinelearningmastery.com/feed/"
     },
     {
-      "name": "Reddit Artificial Intelligence",
-      "url": "https://www.reddit.com/r/ArtificialIntelligence/.rss"
-    },
-    {
       "name": "Sam Altman blog",
       "url": "http://blog.samaltman.com/posts.atom"
     },
@@ -145,14 +141,6 @@
       "url": "https://lwn.net/headlines/rss"
     },
     {
-      "name": "Reddit Apps",
-      "url": "https://www.reddit.com/r/apps/.rss"
-    },
-    {
-      "name": "Reddit Software",
-      "url": "https://www.reddit.com/r/software/.rss"
-    },
-    {
       "name": "Slashdot",
       "url": "https://rss.slashdot.org/Slashdot/slashdot"
     }
@@ -264,3 +252,4 @@
     }
   ]
 }
+
