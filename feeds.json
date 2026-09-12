@@ -163,6 +163,10 @@
       "url": "https://developer.apple.com/news/rss/news.rss"
     },
     {
+      "name": "Rust Language",
+      "url": "https://blog.rust-lang.org/feed.xml"
+    },
+    {
       "name": "Spotify Engineering",
       "url": "https://engineering.atspotify.com/feed/"
     },
