@@ -85,6 +85,24 @@
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_cinternational.xml"
     }
   ],
+  "Japan News": [
+    {
+      "name": "朝日新聞",
+      "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf"
+    },
+    {
+      "name": "Nhk Science",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat3.xml"
+    },
+    {
+      "name": "Nhk Society",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat1.xml"
+    },
+    {
+      "name": "Yahoo Japan",
+      "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml"
+    }
+  ],
   "Science": [
     {
       "name": "Big Think",
@@ -95,20 +113,12 @@
       "url": "https://www.nasa.gov/news-release/feed/"
     },
     {
-      "name": "Nature",
-      "url": "https://www.nature.com/nature.rss"
-    },
-    {
       "name": "New Scientist",
       "url": "https://www.newscientist.com/feed/home/"
     },
     {
       "name": "Quanta Magazine",
       "url": "https://www.quantamagazine.org/feed/"
-    },
-    {
-      "name": "Science",
-      "url": "https://www.science.org/rss/news_current.xml"
     },
     {
       "name": "Science Alert",
@@ -163,10 +173,6 @@
       "url": "https://developer.apple.com/news/rss/news.rss"
     },
     {
-      "name": "Rust Language",
-      "url": "https://blog.rust-lang.org/feed.xml"
-    },
-    {
       "name": "Spotify Engineering",
       "url": "https://engineering.atspotify.com/feed/"
     },
@@ -213,10 +219,6 @@
       "url": "https://www.theverge.com/rss/index.xml"
     },
     {
-      "name": "Venture Beat",
-      "url": "http://venturebeat.com/feed/"
-    },
-    {
       "name": "Wired top stories",
       "url": "https://www.wired.com/feed/rss"
     }
@@ -235,10 +237,6 @@
     {
       "name": "NY Times",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    },
-    {
-      "name": "Washington Post",
-      "url": "https://feeds.washingtonpost.com/rss/world"
     }
   ],
   "World News": [
@@ -249,11 +247,6 @@
     {
       "name": "WSJ world news",
       "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
-    },
-    {
-      "name": "Yahoo News",
-      "url": "https://news.yahoo.com/rss/mostviewed"
     }
   ]
 }
-
