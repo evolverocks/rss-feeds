@@ -51,12 +51,20 @@
   ],
   "China News": [
     {
-      "name": "Cgtn",
-      "url": "https://www.cgtn.com/subscribe/rss/section/china.xml"
+      "name": "中新網即時新聞",
+      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml"
     },
     {
-      "name": "China News Service",
-      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml"
+      "name": "中新網社會新聞",
+      "url": "https://www.chinanews.com.cn/rss/society.xml"
+    },
+    {
+      "name": "中新網財經新聞",
+      "url": "https://www.chinanews.com.cn/rss/finance.xml"
+    },
+    {
+      "name": "Cgtn",
+      "url": "https://www.cgtn.com/subscribe/rss/section/china.xml"
     },
     {
       "name": "Scmp",
@@ -169,6 +177,24 @@
     {
       "name": "Yahoo Japan",
       "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml"
+    }
+  ],
+  "Korea News": [
+    {
+      "name": "Kbs World",
+      "url": "http://world.kbs.co.kr/rss/rss_news.htm?lang=e"
+    },
+    {
+      "name": "Korea Herald",
+      "url": "https://m.koreaherald.com/rss/newsAll"
+    },
+    {
+      "name": "Korea.net",
+      "url": "https://www.korea.net/koreanet/rss/news/2"
+    },
+    {
+      "name": "The Korea Times",
+      "url": "https://feed.koreatimes.co.kr/k/allnews.xml"
     }
   ],
   "Science": [
