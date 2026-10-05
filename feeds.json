@@ -43,12 +43,20 @@
     {
       "name": "Global News",
       "url": "https://globalnews.ca/feed/"
+    },
+    {
+      "name": "Government of Canada Subscriptions",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20News"
     }
   ],
   "China News": [
     {
       "name": "Cgtn",
       "url": "https://www.cgtn.com/subscribe/rss/section/china.xml"
+    },
+    {
+      "name": "China News Service",
+      "url": "https://www.chinanews.com.cn/rss/scroll-news.xml"
     },
     {
       "name": "Scmp",
@@ -129,6 +137,20 @@
     {
       "name": "rthk.hk -即時新聞: 國際rthk.hk - 即時新聞: 國際",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_cinternational.xml"
+    }
+  ],
+  "India news": [
+    {
+      "name": "India Today",
+      "url": "https://www.indiatoday.in/rss/home"
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/feeder/default.rss"
+    },
+    {
+      "name": "The Time of India",
+      "url": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms"
     }
   ],
   "Japan News": [
