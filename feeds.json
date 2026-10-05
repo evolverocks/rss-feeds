@@ -21,6 +21,20 @@
       "url": "https://www.wired.com/feed/tag/ai/latest/rss"
     }
   ],
+  "Australia News": [
+    {
+      "name": "The Age",
+      "url": "https://www.theage.com.au/rss/feed.xml"
+    },
+    {
+      "name": "The Sydney Morning Herald",
+      "url": "https://www.smh.com.au/rss/feed.xml"
+    },
+    {
+      "name": "WAtoday",
+      "url": "https://www.watoday.com.au/rss/feed.xml"
+    }
+  ],
   "Canada News": [
     {
       "name": "Cbc",
@@ -29,6 +43,16 @@
     {
       "name": "Global News",
       "url": "https://globalnews.ca/feed/"
+    }
+  ],
+  "China News": [
+    {
+      "name": "Cgtn",
+      "url": "https://www.cgtn.com/subscribe/rss/section/china.xml"
+    },
+    {
+      "name": "Scmp",
+      "url": "https://www.scmp.com/rss/4/feed/"
     }
   ],
   "Financial News": [
@@ -72,6 +96,14 @@
     }
   ],
   "Germany News": [
+    {
+      "name": "Deutsche Welle",
+      "url": "https://rss.dw.com/rdf/rss-en-all"
+    },
+    {
+      "name": "Tagesschau",
+      "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml"
+    },
     {
       "name": "Zeit",
       "url": "http://newsfeed.zeit.de/index"
@@ -248,6 +280,14 @@
     }
   ],
   "United States News": [
+    {
+      "name": "Cbs",
+      "url": "https://www.cbsnews.com/latest/rss/main"
+    },
+    {
+      "name": "Nbc",
+      "url": "http://feeds.nbcnews.com/feeds/topstories"
+    },
     {
       "name": "NY Times",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
