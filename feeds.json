@@ -167,12 +167,20 @@
       "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf"
     },
     {
+      "name": "Asahi Shimbun",
+      "url": "http://www.asahi.com/ajw/feed_msn"
+    },
+    {
       "name": "Nhk Science",
       "url": "https://news.web.nhk/n-data/conf/na/rss/cat3.xml"
     },
     {
       "name": "Nhk Society",
       "url": "https://news.web.nhk/n-data/conf/na/rss/cat1.xml"
+    },
+    {
+      "name": "Pr Times",
+      "url": "https://prtimes.jp/index.rdf"
     },
     {
       "name": "Yahoo Japan",
