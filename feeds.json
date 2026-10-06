@@ -127,6 +127,10 @@
   ],
   "Hong Kong News": [
     {
+      "name": "明報",
+      "url": "https://news.mingpao.com/rss/ins/all.xml"
+    },
+    {
       "name": "香港政府新聞網 - 新聞速遞香港政府新聞網 - 新聞速遞",
       "url": "https://www.news.gov.hk/tc/common/html/ticker.rss.xml"
     },
@@ -169,6 +173,14 @@
     {
       "name": "Asahi Shimbun",
       "url": "http://www.asahi.com/ajw/feed_msn"
+    },
+    {
+      "name": "Gigazine",
+      "url": "https://gigazine.net/news/rss_2.0/"
+    },
+    {
+      "name": "Nhk Economy",
+      "url": "https://www3.nhk.or.jp/rss/news/cat5.xml"
     },
     {
       "name": "Nhk Science",
