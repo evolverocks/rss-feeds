@@ -360,11 +360,19 @@
   "United Kingdom News": [
     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/international/rss"
+      "url": "https://www.theguardian.com/uk/rss"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/rss"
     },
     {
       "name": "The Telegraph",
       "url": "https://www.telegraph.co.uk/news/rss.xml"
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/rss.xml"
     }
   ],
   "United States News": [
