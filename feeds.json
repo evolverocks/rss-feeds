@@ -47,16 +47,20 @@
   ],
   "Australia News": [
     {
-      "name": "The Age",
-      "url": "https://www.theage.com.au/rss/feed.xml"
+      "name": "Australian Broadcasting Corporation (ABC)",
+      "url": "https://www.abc.net.au/news/feed/51120/rss.xml"
+    },
+    {
+      "name": "Seven West Media",
+      "url": "https://7news.com.au/rss"
+    },
+    {
+      "name": "Special Broadcasting Service (SBS)",
+      "url": "https://www.sbs.com.au/news/feed"
     },
     {
       "name": "The Sydney Morning Herald",
       "url": "https://www.smh.com.au/rss/feed.xml"
-    },
-    {
-      "name": "WAtoday",
-      "url": "https://www.watoday.com.au/rss/feed.xml"
     }
   ],
   "Canada News": [
@@ -97,8 +101,16 @@
   ],
   "Financial News": [
     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/feeds/markets/news.rss"
+    },
+    {
       "name": "CNBC",
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/rss/home/international"
     },
     {
       "name": "Market Watch",
